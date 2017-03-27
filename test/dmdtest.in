@@ -1,0 +1,9 @@
+ &INPUT
+  TSNAP=1000
+  NBLOC=100
+  TEMP=300
+  seed=2839
+  OUTFORMAT=0
+  TCALC=1
+  nrepl=1
+ &END 
